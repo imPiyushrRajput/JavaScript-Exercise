@@ -13,7 +13,8 @@ function handleCardButtonClick(event) {
     <img width="600" height="600" src="${imgSrc.replace(
       "200",
       "600"
-    )}" alt="${name}"/>
+    )}" 
+    alt="${name}"/>
     <p>${desc}</p>
   `;
  
